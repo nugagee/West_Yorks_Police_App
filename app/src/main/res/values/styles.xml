@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.App" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+  <!-- Base application theme. -->
+    <style name="Theme.WYPF_App" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- For example:
+    <item name="colorPrimary">@color/my_light_primary</item>
+    <item name="colorPrimaryVariant">@color/my_light_primary_variant</item>
+    <item name="colorOnPrimary">@color/white</item>
+    -->
+    </style>
+
+</resources>

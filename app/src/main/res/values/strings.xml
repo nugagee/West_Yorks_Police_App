@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UoB_23057989_WYPF_App</string>
+    <string name="bottom_nav">Search</string>
+    <string name="login">Login</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="uob">UoB: 23057989</string>
+    <string name="login_txt">Login</string>
+    <string name="register">Register</string>
+    <string name="west_yorkshire_crime_tracker">West Yorkshire Crime Tracker</string>
+</resources>

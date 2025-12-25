@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550821720478",
+    "project_id": "uob-23057989-wypf-app",
+    "storage_bucket": "uob-23057989-wypf-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550821720478:android:8cdafeda6051d1116d668f",
+        "android_client_info": {
+          "package_name": "com.example.uob_23057989_wypf_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0G19wsmQnv4tzFCj8k1FgAkm27dWIUuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
