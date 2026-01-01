@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="UoB: 23057989"
+            android:text="@string/uob_23057989"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -42,8 +42,21 @@
             android:fontFamily="sans-serif-black"
             android:gravity="center"
             android:padding="16dp"
-            android:text="Welcome to West Yorks Police Crime Tracker"
+            android:text="@string/welcome_to_west_yorks_police_crime_tracker"
             android:textSize="32sp" />
+
+        <!-- 1. Your Logo -->
+        <ImageView
+            android:id="@+id/login_logo"
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:contentDescription="@string/app_logo_description"
+            android:src="@drawable/wyp_logo_2" />
+
+
 
         <Button
             android:id="@+id/btnLogin"
@@ -51,7 +64,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:background="@drawable/btn_view"
-            android:text="Login"
+            android:text="@string/login_txt"
             android:textSize="18sp" />
 
         <Button
@@ -60,7 +73,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
             android:background="@drawable/btn_view"
-            android:text="Sign Up"
+            android:text="@string/sign_up"
             android:textSize="18sp" />
 
     </LinearLayout>

@@ -5,6 +5,14 @@
     <string name="dashboard">Dashboard</string>
     <string name="uob">UoB: 23057989</string>
     <string name="login_txt">Login</string>
+    <string name="password">Password</string>
     <string name="register">Register</string>
+    <string name="email">Email</string>
     <string name="west_yorkshire_crime_tracker">West Yorkshire Crime Tracker</string>
+    <string name="app_logo_description">West Yorkshire Police Logo</string>
+    <string name="login_to_your_account">Login to Your Account</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="welcome_to_west_yorks_police_crime_tracker">Welcome to West Yorks Police Crime Tracker</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="uob_23057989">UoB: 23057989</string>
 </resources>

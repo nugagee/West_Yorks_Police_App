@@ -4,7 +4,7 @@
         <!-- Customize your light theme here. -->
 
         <!-- Moved inside the style block -->
-        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimary">@color/green_500</item>
         <item name="colorOnPrimary">@color/white</item>
     </style>
 
